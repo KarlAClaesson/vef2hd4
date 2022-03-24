@@ -1,7 +1,4 @@
-
-RawBlame
-  
-html {
+RawBlame html {
   box-sizing: border-box;
 }
 
@@ -154,7 +151,7 @@ section {
   font-size: 1.5rem;
 }
 
-.event__registeredItem {  
+.event__registeredItem {
   margin-bottom: 1rem;
 }
 
